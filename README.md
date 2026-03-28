@@ -34,7 +34,7 @@ CSV Upload → Mock DB (dealers.json)
 |---|---|
 | Workflow orchestration | LangGraph 0.0.55 |
 | Agent framework | LangChain 0.1.20 |
-| LLM | Mistral-7B-Instruct-v0.2 (HF Inference API) |
+| LLM | Zephyr-7B-Beta (HF Inference API) |
 | Embeddings | all-MiniLM-L6-v2 (HuggingFace, local) |
 | Vector store | FAISS (CPU) |
 | Backend | FastAPI + Uvicorn |
