@@ -1,4 +1,4 @@
-# 👟 StepForward Footwear — AI Distributor Sales Agent
+#  StepForward Footwear — AI Distributor Sales Agent
 
 An end-to-end AI sales agent built with LangChain, LangGraph, FastAPI and Streamlit
 to help a footwear brand identify, qualify, and engage global distributors.
